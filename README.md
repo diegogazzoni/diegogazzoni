@@ -1,12 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey, I'm Diego 👋</h1>
 
 ###
 
-<p align="left">Hey, I'm Diego 👋 I build software at every level — from production APIs and AI models down to bare metal, just to remember how computers actually work. 🖥️⚙️</p>
+<p align="left">I build software at every level — from production APIs and AI models down to bare metal, just to remember how computers actually work. 🖥️⚙️</p>
 
 ###
 
-<h2 align="left">How to reach me</h2>
+<h2 align="left">📬 Where to find me</h2>
 
 ###
 
@@ -18,11 +18,11 @@
 
 ###
 
-<h2 align="left">My toolbox 🛠️</h2>
+<h2 align="left">🛠️ My toolbox</h2>
 
 ###
 
-<h3 align="left">Backend</h3>
+<h3 align="left">⚙️ Backend</h3>
 
 ###
 
@@ -42,6 +42,10 @@
 
 ###
 
+<h3 align="left">🔩 Low level</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -50,21 +54,7 @@
 
 ###
 
-<h3 align="left">Frontend</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
-
-###
-
-<h3 align="left">Data Science</h3>
+<h3 align="left">🧠 AI / ML</h3>
 
 ###
 
@@ -78,10 +68,24 @@
 
 ###
 
+<h3 align="left">🌐 Other</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegogazzoni/diegogazzoni/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegogazzoni/diegogazzoni/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diegogazzoni/diegogazzoni/output/pacman-contribution-graph.svg">
 </picture>
-
-###
