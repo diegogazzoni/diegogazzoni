@@ -1,8 +1,8 @@
-<h1 align="left">Hey, I'm Diego 👋</h1>
+<h1 align="left">Hey, I'm Diego</h1>
 
 ###
 
-<p align="left">I build software at every level — from production APIs and AI models down to bare metal, just to remember how computers actually work. 🖥️⚙️</p>
+<p align="left">I build software at every level — from production APIs and AI models down to bare metal, just to remember how computers actually work :P</p>
 
 ###
 
