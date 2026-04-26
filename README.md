@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I enjoy building things since childhood :)</p>
+<p align="left">I enjoy building things :)</p>
 
 ###
 
