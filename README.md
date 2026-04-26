@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I build software at every level — from production APIs and AI models down to bare metal, just to remember how computers actually work :P</p>
+<p align="left">I enjoy building things :)</p>
 
 ###
 
