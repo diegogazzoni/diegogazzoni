@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I enjoy building things :)</p>
+<p align="left">I enjoy building things and beach-related activities.</p>
 
 ###
 
