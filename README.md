@@ -1,8 +1,7 @@
 <h1 align="left">Nice to meet you</h1>
 
 ###
-
-<p align="left">I enjoy building things and beach-related activities.</p>
+<p align="left">I mainly enjoy building things with some sort of retro touch. As "analog guy" I like wired headphones and slow life. </p>
 
 ###
 
