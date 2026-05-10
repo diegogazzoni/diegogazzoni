@@ -1,7 +1,7 @@
 <h1 align="left">Nice to meet you</h1>
 
 ###
-<p align="left">I mainly enjoy building things with some sort of retro touch. </p>
+<p align="left">I mainly enjoy building things from scratch </p>
 
 ###
 
