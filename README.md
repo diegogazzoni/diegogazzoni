@@ -13,8 +13,6 @@
 
 ###
 
-<p align="left"> Here you will find some projects with different purposes and technologies. For ethic reasons, I clearly mark with some sort of note or tag all the projects where I used AI-support. If you don't find any reference or tag, it would mean that the project is my own work (unless I forgot to add it :P).
-
 ###
 
 <h2 align="left">📬 Some social contacts</h2>
